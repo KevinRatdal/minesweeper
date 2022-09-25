@@ -1,0 +1,7 @@
+.gameWindow {
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+  border: 2px solid darkgrey;
+}
